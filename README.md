@@ -4,7 +4,9 @@ A simple function written in python to calculate the length of a side in a right
 
 **USAGE**:
 The fuction will return the lenght of an unkown side of a triangle
+
 Call the function by using pythagoras()
+
 The function needs 3 arguments
 
 Explanation of Arguments:
