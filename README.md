@@ -3,20 +3,19 @@ A simple function written in python to calculate the length of a side in a right
 
 
 **USAGE**:
-    The fuction will return the lenght of an unkown side of a triangle
-    Call the function by using pythagoras()
-    The function needs 3 arguments
+The fuction will return the lenght of an unkown side of a triangle
+Call the function by using pythagoras()
+The function needs 3 arguments
 
-  Explanation of Arguments:
-    **SIDE** : The side you want to calculate (The unkown) // Lowercase is prefered.
-      "a" = Calculate side a
-      "b" = Calculate side b
-      "c" = Calculate side c (The hypotenues)
+Explanation of Arguments:
+**SIDE** : The side you want to calculate (The unkown) // Lowercase is prefered.
+"a" = Calculate side a
+"b" = Calculate side b
+"c" = Calculate side c (The hypotenues)
 
+**LEN1** : A side you know. The biggest value should go here // the hypotenues.
 
-    **LEN1** : A side you know. The biggest value should go here // the hypotenues.
-
-    **lEN2** : A side you know. The smaller value should go here.
+**lEN2** : A side you know. The smaller value should go here.
 
 **USAGE EXAMPLE:**
 
