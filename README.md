@@ -21,11 +21,11 @@ A simple function written in python to calculate the length of a side in a right
 **USAGE EXAMPLE:**
 
 To find the hypotenues of a 3,4,5 triangle:
-  'pythagoras("c",4,3)'
-    will return the float '5.0'
+'pythagoras("c",4,3)'
+will return the float '5.0'
 To find side A of a 3,4,5 triangle:
-  'pythagoras("a",5,4)
-    will return the float '3.0'
+'pythagoras("a",5,4)
+will return the float '3.0'
 To find side B of a 3,4,5 triangle:
-  'pythagoras("b",5,3)
-    will return the float '4.0'
+'pythagoras("b",5,3)
+will return the float '4.0'
