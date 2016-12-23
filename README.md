@@ -9,7 +9,9 @@ Call the function by using pythagoras()
 
 The function needs 3 arguments
 
-Explanation of Arguments:
+**Explanation of Arguments:**
+
+
 **SIDE** : The side you want to calculate (The unkown) // Lowercase is prefered.
 "a" = Calculate side a
 "b" = Calculate side b
@@ -18,6 +20,9 @@ Explanation of Arguments:
 **LEN1** : A side you know. The biggest value should go here // the hypotenues.
 
 **lEN2** : A side you know. The smaller value should go here.
+
+
+
 
 **USAGE EXAMPLE:**
 
