@@ -2,14 +2,14 @@
 A simple function written in python to calculate the length of a side in a right angle triangle. 
 
 
-**USAGE**:
+## **USAGE**:
 The fuction will return the lenght of an unkown side of a triangle
 
 Call the function by using pythagoras()
 
 The function needs 3 arguments
 
-**Explanation of Arguments:**
+### **Explanation of Arguments:**
 
 
 **SIDE** : The side you want to calculate (The unkown) // Lowercase is prefered.
@@ -19,12 +19,12 @@ The function needs 3 arguments
 
 **LEN1** : A side you know. The biggest value should go here // the hypotenues.
 
-**lEN2** : A side you know. The smaller value should go here.
+**LEN2** : A side you know. The smaller value should go here.
 
 
 
 
-**USAGE EXAMPLE:**
+## **USAGE EXAMPLE:**
 
 To find the hypotenues of a 3,4,5 triangle:
 'pythagoras("c",4,3)'
