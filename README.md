@@ -27,7 +27,11 @@ The function needs 3 arguments
 ## **USAGE EXAMPLE:**
 
 To find the hypotenues of a 3,4,5 triangle:
-    'pythagoras("c",4,3)'
+    
+    ```python 
+    pythagoras("c",4,3)
+    ```
+
 will return the float '5.0'
 To find side A of a 3,4,5 triangle:
     'pythagoras("a",5,4)
